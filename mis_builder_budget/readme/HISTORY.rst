@@ -1,9 +1,9 @@
-16.0.5.0.0 (2023-04-01)
+17.0.5.0.0 (2023-04-01)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 **Features**
 
-- Migration to 16.0.
+- Migration to 17.0.
 
   - removal of analytic fetures because the upstream ``analytic_distribution`` mechanism
     is not compatible; support may be introduced in separate module, depending on use
